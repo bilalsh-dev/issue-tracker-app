@@ -1,6 +1,6 @@
 import { z } from "zod";
 
-export const createIssueSchema = z.object({
+export const issueSchema = z.object({
   title: z
     .string()
     .nonempty("Title is required")
