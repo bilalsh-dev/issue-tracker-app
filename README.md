@@ -7,7 +7,7 @@
 
 > The Next.js Issue Tracker is a feature-rich web application designed to streamline issue management and tracking for teams and organizations. Leveraging a tech stack comprising Next.js, App Router, NextAuth, TypeScript, Radix-UI, Tailwind CSS, Prisma, MySQL, Zod, and React Query, this app offers a robust and user-friendly solution for managing and resolving issues.
 
-<img src="./app-screens.png">
+<img src="./public/app-screens.png">
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
